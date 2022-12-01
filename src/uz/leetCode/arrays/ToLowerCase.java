@@ -9,7 +9,6 @@ public class ToLowerCase {
                 arr[i] += 32;
             }
         }
-
         return new String(arr);
     }
 }
